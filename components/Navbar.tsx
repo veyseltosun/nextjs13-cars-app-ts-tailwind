@@ -21,7 +21,7 @@ const Navbar = () => {
             <CustomButton
              title="Sign In"
              btnType="button"
-             containerStyles="text-primary-lue
+             containerStyles="text-primary-blue
              rounded-full bg-white min-w-[130px]"
             />
 
