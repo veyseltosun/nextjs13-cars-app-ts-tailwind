@@ -6,7 +6,7 @@ import {Footer, Navbar} from "@/components"
 
 export const metadata = {
   title: 'Avec  rent a car!',
-  description: 'Discover the best cars in the ',
+  description: 'Discover the best cars in the world. ',
 }
 
 export default function RootLayout({
